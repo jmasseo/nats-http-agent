@@ -1,0 +1,5 @@
+# nats-http-agent
+
+This is a little HTTP agent that gets fed over NATS and returns the results.
+Based on one of the examples from nats.io
+
